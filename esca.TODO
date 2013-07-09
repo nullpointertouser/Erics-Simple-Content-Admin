@@ -1,0 +1,27 @@
+ESCA WYSIWYG:
+ ☐ Determine how permissions based editing should work
+ ☐ Function to get config from a file
+
+
+Instructions:
+  ☐ ⌘ + enter or ⌘ + i: new task
+
+  ☐ ⌘ + d: toggle task as completed. You can also use your mouse to mark a task a completed. just hold down ⌘ (or ctrl if you're on Windows or Linux) and click the task. Clicking again will toggle the task back to the pending state.
+
+  ☐ alt + c: toggle task as cancelled.
+
+  ☐ ⌘ + shift + a will archive the done tasks, by removing them from your list and appending them to the bottom of the file under Archive project
+
+  ☐ ⌘ + shift + u will open the url under the cursor in your default browser
+
+  ☐ Anything with colon at the end of the line is a project title, you can also nest projects by indenting them.
+
+  ☐ You can write plain text as notes or descriptions wherever you want.
+
+  ☐ You can add tags using @ sign
+
+  ☐ PlainTasks comes with a simple snippet for creating separators, if you feel that your task list is becoming too long you can split it into several sections (and fold some of them) using this snippet:
+
+  -- and then tab key will give you this: --- ✄ -----------------------
+
+  ☐ You can create a link to a file within your project by prefixing the file name with a pound sign like: #filename.
