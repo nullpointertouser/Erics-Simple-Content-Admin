@@ -1,7 +1,7 @@
  <?
 include('./lib/esca/contentAdmin.php'); // ESCA Backend
 include('./lib/esca/escaWYSIWYG.php'); // ESCA Frontend
-$contentAdmin = new ESContentAdmin("localhost","root","icanhasaccess","testing_db");
+$contentAdmin = new ESContentAdmin("localhost","user","pass","database");
 $ca = AutoWYSIWYG::getInstance($contentAdmin);
 $redirLink = $_POST['esca_data_redirect'];
 try {

@@ -19,11 +19,6 @@ $contentAdmin = new ESContentAdmin($mysqli);
 // Create instance of AutoWYSIWYG; this generates the web interface for editing content.
 $ca = AutoWYSIWYG::getInstance($contentAdmin);
 
-/*
-The following is redundant; this is an example of setting the location of the resources
-folder to the default location. Include this if you're using a different name for your
-resources folder.
-*/
 $ca->setLocations(array(
     'resources' => 'res',
 ));

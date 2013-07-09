@@ -3,7 +3,6 @@ Eric's Simple Content Admin (or ESCA, if that isn't already a thing) is a simple
 
 # How to use
 Currently there is no documentation, but index.php provides a well-commented example.
-Consider this project to be in beta stage. While I'm pretty certain it's safe to use, you should review the source code if this is for your boss's website. I am not responsible if using the given work allows somebody to exploit your server.
 
 # Features
 ## Current Features
@@ -19,9 +18,6 @@ No particular order.
  - [ ] Start developing user-interaction goodies (comments, ratings, etc)
  - [ ] Configurable moderation system for comments
  - [ ] Loading configuration from ini files
- 
-## Contributing
-If you have a feature idea, don't like the way I coded something, or anything else like that, awesome! Please let me know in issues. If you want to contribute code, make sure it's either a bug fix, in the upcoming features list, or that you've posted an idea for a feature and I have seen it.
 
 # License
 I'd like to give credit to nicEdit, which is the JavaScript library used for creating rich text editors when ESCA is in edit mode.
