@@ -10,7 +10,7 @@ Consider this project to be in beta stage. While I'm pretty certain it's safe to
  - [x] Uses PHP's newer mysqli library
  - [x] Boxes of content called "blips", which become editable in edit mode
  - [x] Rich text editor (using nicEdit library)
-## TODO slash Upcoming Features
+## TODO / Upcoming Features
 No particular order.
  - [ ] Fixes for layout defects in edit mode
  - [ ] Add "blip streams" (allow website editor to add new boxes of content)
